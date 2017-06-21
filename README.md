@@ -10,12 +10,16 @@ Pieces
 There's 4 different types of pieces the case uses:
 
 - Top/Switch layer - Each half uses 1 of these
-- Bottom layer - Each half uses 1 of these
-- Middle layer
+    - There are 3 different versions
+    - `switch-layer-1u.svg` - All 1u keys
+    - `switch-layer-2u.svg` - 2u key at lower right (or lower left if plate is flipped for other half)
+    - `switch-layer-universal.svg` - Supports both 1u and 2u configuration
+- Bottom layer (`bottom-layer.svg`) - Each half uses 1 of these
+- Middle layer (`middle-layer.svg`)
     - C-shaped piece - Each half uses 3 of these, use a 4th one if you need more space (like when using a Pro Micro with Mini USB jack)
     - Stick piece - Same number as the C-Shaped piece
 
-There is also an alternative middle layer file that has 3 holes on the sides of it to allow for testing using 3 screws.
+There is also an alternative middle layer file (`middle-layer-tent.svg`) that has 3 holes on the sides of it to allow for testing using 3 screws.
 
 Screws and Standoffs
 --------------------
