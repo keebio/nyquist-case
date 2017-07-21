@@ -19,7 +19,7 @@ There's 4 different types of pieces the case uses:
     - C-shaped piece - Each half uses 3 of these, use a 4th one if you need more space (like when using a Pro Micro with Mini USB jack)
     - Stick piece - Same number as the C-Shaped piece
 
-There is also an alternative middle layer file (`middle-layer-tent.svg`) that has 3 holes on the sides of it to allow for testing using 3 screws.
+There is also an alternative middle layer file (`middle-layer-tent.svg`) that has 3 holes on the sides of it to allow for testing using 3 screws. **Note:** This tenting design needs to be reworked, as with all 3 screws in, it's somewhat unstable, but is fine with 2 screws on the one side.
 
 Screws and Standoffs
 --------------------
