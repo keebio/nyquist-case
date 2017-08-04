@@ -1,12 +1,14 @@
 Nyquist v1 Case
 ===============
 
-Here's case design files for the Nyquist v1. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
+Here's case design files for the [Nyquist](https://keeb.io/collections/nyquist-parts) v1. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
 
-The design file has 2 top, 2 bottom, and 8 middle layer pieces. This is good for 1 complete case for 2 halves.
+There are two different designs included in this repository, one case with 9 screw holes around the exterior of the plate (`exterior-screws` directory), and one with 4 screw holes on the interior of the plate (i.e. all but one screw is hidden from view) (`interior-screws` directory).
 
-Pieces
-------
+Exterior case pieces
+--------------------
+The design file for the exterior screw case has 2 top, 2 bottom, and 8 middle layer pieces. This is good for 1 complete case for 2 halves.
+
 There's 4 different types of pieces the case uses:
 
 - Top/Switch layer - Each half uses 1 of these
@@ -21,9 +23,20 @@ There's 4 different types of pieces the case uses:
 
 There is also an alternative middle layer file (`middle-layer-tent.svg`) that has 3 holes on the sides of it to allow for testing using 3 screws.
 
+Interior case pieces
+--------------------
+
+There's only 2 different types of pieces the case uses:
+
+- Top/Switch layer - Each half uses 1 of these
+    - There are 2 different versions
+    - `switch-layer-1u.svg` - All 1u keys
+    - `switch-layer-universal.svg` - Supports both 1u and 2u configuration
+- Bottom layer (`bottom-layer.svg`) - Each half uses 1 of these
+
 Screws and Standoffs
 --------------------
-This case was designed to use M2 screws and standoffs. The holes in the middle layers are for the standoffs, while the holes in the top and bottom layers are only wide enough for the screws.
+This case was designed to use M2 screws and standoffs. The holes in the middle layers are for the standoffs, while the holes in the top and bottom layers are only wide enough for the screws. M2 screws and standoffs that fit the case can be purchased at Keebio: [M2 Screws & Standoffs](https://keeb.io/products/m2-screws-and-standoffs)
 
 Ponoko
 ------
