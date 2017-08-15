@@ -48,8 +48,10 @@ To have the case made with Ponoko, you can't take the .svg files as is and send 
 - [Adobe Illustrator template](https://www.ponoko.com/starter-kits/adobe-illustrator)
 - [Other](https://www.ponoko.com/make-and-sell/design-it-yourself)
 
+Next, open up the template of the sheet size you want and open up the case design files as well. Then, copy the drawings in the case design files into the template. Remove any overlapping lines to reduce the cutting cost using this guide: [Avoid doubled up lines](http://support.ponoko.com/hc/en-us/articles/220289608-Avoid-doubled-up-blue-cutting-lines-in-your-designs).
+
 ### Pre-made Ponoko designs
-There are a couple of files included that are ready to be sent off to Ponoko:
+If you don't want to arrange the pieces yourself, there are a couple of files included that are ready to be sent off to Ponoko:
 
 - `P2-nyquist-v1-ponoko.eps`
     - Complete case for both halves
