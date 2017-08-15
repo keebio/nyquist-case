@@ -1,5 +1,5 @@
-Nyquist v1 Case
-===============
+Nyquist Keyboard Case
+=====================
 
 Here's case design files for the [Nyquist](https://keeb.io/collections/nyquist-parts) v1. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
 
@@ -51,10 +51,10 @@ To have the case made with Ponoko, you can't take the .svg files as is and send 
 ### Pre-made Ponoko designs
 There are a couple of files included that are ready to be sent off to Ponoko:
 
-- P2-nyquist-v1-ponoko.eps
+- `P2-nyquist-v1-ponoko.eps`
     - Complete case for both halves
     - You only need to make one of these on a P2 sheet
-- P1-nyquist-middle.eps
+- `P1-nyquist-middle.eps`
     - 2 middle layer pieces
     - If doing 3mm (0.118 in) thickness, you'll need 3 or 4 P1 sheets to get to 9mm or 12mm of total thickness respectively
     - If doing 4mm (0.177 in) thickness, you'll need 2 P1 sheets to get to 9mm thickness
