@@ -68,7 +68,7 @@ If you're having the middle layers made, from the top of the switch plate to the
     - Usually accomplished with:
         - 2x4.5mm + 1x1.5mm layers
         - or 3x3mm + 1x1.5mm layers
-        - or 3x4mm layers
+        - or 4x3mm layers
 - 3mm acrylic switch plate: 9mm
     - Usually accomplished with:
         - 2x4.5mm layers
