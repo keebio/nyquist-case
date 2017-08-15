@@ -40,7 +40,37 @@ This case was designed to use M2 screws and standoffs. The holes in the middle l
 
 Ponoko
 ------
-The .eps file is designed for use with a Ponoko P2 sheet. A 3mm or 4.5mm sheet is recommended if using acrylic. The kerf of all the files (.eps and .svg) was set to 0.15mm when designed.
+
+### Arranging the Ponoko design yourself
+To have the case made with Ponoko, you can't take the .svg files as is and send them off to them. First, you'll need to download the templates for P1, P2, & P3 sheets from here, depending on what vector editor you are using:
+
+- [Inkscape templates](https://www.ponoko.com/starter-kits/inkscape)
+- [Adobe Illustrator template](https://www.ponoko.com/starter-kits/adobe-illustrator)
+- [Other](https://www.ponoko.com/make-and-sell/design-it-yourself)
+
+### Pre-made Ponoko designs
+There are a couple of files included that are ready to be sent off to Ponoko:
+
+- P2-nyquist-v1-ponoko.eps
+    - Complete case for both halves
+    - You only need to make one of these on a P2 sheet
+- P1-nyquist-middle.eps
+    - 2 middle layer pieces
+    - If doing 3mm (0.118 in) thickness, you'll need 3 or 4 P1 sheets to get to 9mm or 12mm of total thickness respectively
+    - If doing 4mm (0.177 in) thickness, you'll need 2 P1 sheets to get to 9mm thickness
+
+## Middle Layer Thickness
+If you're having the middle layers made, from the top of the switch plate to the top of the bottom plate, the minimium distance between the two required is 12mm if the plastic on the header pins is removed. The requirement is slightly more (about 13.5mm) if you leave the plastic on. Therefore, the following middle layer thickness are needed based on the thickness of the switch layer:
+
+- 1.5mm Stainless steel switch plate: 10.5mm
+    - Usually accomplished with:
+        - 2x4.5mm + 1x1.5mm layers
+        - or 3x3mm + 1x1.5mm layers
+        - or 3x4mm layers
+- 3mm acrylic switch plate: 9mm
+    - Usually accomplished with:
+        - 2x4.5mm layers
+        - or 3x3mm layers
 
 License
 -------
