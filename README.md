@@ -1,7 +1,7 @@
 Nyquist Keyboard Case
 =====================
 
-Here's case design files for the [Nyquist](https://keeb.io/collections/nyquist-parts) v1. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
+Here's case design files for the [Nyquist](https://keeb.io/collections/nyquist-parts) Rev. 1 and Rev. 2. It's a sandwich-style case with cutouts at the back to accomodate the USB jack and the TRRS jack.
 
 There are two different designs included in this repository, one case with 9 screw holes around the exterior of the plate (`exterior-screws` directory), and one with 4 screw holes on the interior of the plate (i.e. all but one screw is hidden from view) (`interior-screws` directory).
 
