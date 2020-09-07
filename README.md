@@ -23,6 +23,12 @@ There's 4 different types of pieces the case uses:
 
 There is also an alternative middle layer file (`middle-layer-tent.svg`) that has 3 holes on the sides of it to allow for testing using 3 screws. **Note:** This tenting design needs to be reworked, as with all 3 screws in, it's somewhat unstable, but is fine with 2 screws on the one side.
 
+Jeffeb3 3D printed/PCB case
+---------------------------
+Using the exterior screw PCB case, there is a 3D printed case designed with 3D printed tenting pegs.
+
+Details [here](jeffeb3_case/README.md)
+
 Interior case pieces
 --------------------
 
